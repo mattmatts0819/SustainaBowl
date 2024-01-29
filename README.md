@@ -1,0 +1,1 @@
+SustainaBowl is a Figma project that demonstrates my wireframing skills. The files included in the folder represent the beginning-to-end journey of creating the app, including the Agile dev process we used to complete the project.
